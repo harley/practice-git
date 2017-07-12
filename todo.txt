@@ -1,0 +1,4 @@
+- [ ] create a new folder
+- [ ] create a file named todo.txt
+- [ ] add a few todo items in todo.txt 
+- [ ] mark some items in todo.txt as done
