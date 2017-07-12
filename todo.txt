@@ -5,3 +5,4 @@
 - [x] check in a new version
 - [ ] ask at least one question about this Git thing
 - [x] make another commit
+- [x] demo how to write a long commit message
